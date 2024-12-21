@@ -15,6 +15,10 @@ This is a simple **Marketplace Website** built with **React** and styled using *
 - **Context API** for managing cart state.
 - **CRUDCRUD** (or **Beeceptor**) for handling data with a mock API.
 
+###
+
+## The screenshot of the image:
+
   ![Screenshot](img1.png)
 
 
