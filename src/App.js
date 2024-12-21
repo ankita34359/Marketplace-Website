@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from "react";
 import axios from "axios";
-import "./App.css"; // Assuming Tailwind CSS is set up
+import "./App.css"; 
 
 // Context for managing cart state
 const CartContext = createContext();
