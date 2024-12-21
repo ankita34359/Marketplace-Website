@@ -17,7 +17,7 @@ This is a simple **Marketplace Website** built with **React** and styled using *
 
 ###
 
-## The screenshot of the image:
+## The screenshot of the webpage:
 
   ![Screenshot](img1.png)
 
