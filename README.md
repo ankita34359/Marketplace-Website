@@ -15,3 +15,5 @@ This is a simple **Marketplace Web App** built with **React** and styled using *
 - **Context API** for managing cart state.
 - **CRUDCRUD** (or **Beeceptor**) for handling data with a mock API.
 
+## Author
+Ankita Gupta
